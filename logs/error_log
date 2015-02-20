@@ -1,0 +1,17 @@
+[Fri Feb 20 14:20:26 2015] [error] [client 127.0.0.1] File does not exist: /Users/marcos/Sites/upload.dev/favicon.ico
+[Fri Feb 20 14:21:14 2015] [error] [client 127.0.0.1] File does not exist: /Users/marcos/Sites/upload.dev/favicon.ico, referer: http://upload.dev/
+[Fri Feb 20 16:34:53 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /Users/marcos/Sites/upload.dev/inserir.php on line 26, referer: http://upload.dev/
+[Fri Feb 20 16:35:07 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: arquivo in /Users/marcos/Sites/upload.dev/inserir.php on line 21, referer: http://upload.dev/
+[Fri Feb 20 16:36:34 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: arquivo in /Users/marcos/Sites/upload.dev/inserir.php on line 21, referer: http://upload.dev/
+[Fri Feb 20 16:36:59 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: dir in /Users/marcos/Sites/upload.dev/inserir.php on line 21, referer: http://upload.dev/
+[Fri Feb 20 16:36:59 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: arquivo in /Users/marcos/Sites/upload.dev/inserir.php on line 21, referer: http://upload.dev/
+[Fri Feb 20 16:37:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: dir in /Users/marcos/Sites/upload.dev/inserir.php on line 21, referer: http://upload.dev/
+[Fri Feb 20 16:37:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: arquivo in /Users/marcos/Sites/upload.dev/inserir.php on line 21, referer: http://upload.dev/
+[Fri Feb 20 16:38:55 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: arquivo in /Users/marcos/Sites/upload.dev/inserir.php on line 21, referer: http://upload.dev/
+[Fri Feb 20 16:41:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: arquivo in /Users/marcos/Sites/upload.dev/inserir.php on line 21, referer: http://upload.dev/
+[Fri Feb 20 16:41:38 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: arquivo in /Users/marcos/Sites/upload.dev/inserir.php on line 21, referer: http://upload.dev/
+[Fri Feb 20 16:47:19 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: arquivo in /Users/marcos/Sites/upload.dev/inserir.php on line 21, referer: http://upload.dev/
+[Fri Feb 20 16:47:34 2015] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: arquivo in /Users/marcos/Sites/upload.dev/inserir.php on line 21, referer: http://upload.dev/
+[Fri Feb 20 16:49:18 2015] [error] [client 127.0.0.1] PHP Notice:  date_default_timezone_set(): Timezone ID 'Brazil/Sao_Paulo' is invalid in /Users/marcos/Sites/upload.dev/inserir.php on line 11, referer: http://upload.dev/
+[Fri Feb 20 16:49:18 2015] [error] [client 127.0.0.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/marcos/Sites/upload.dev/inserir.php on line 14, referer: http://upload.dev/
+[Fri Feb 20 16:59:20 2015] [error] [client 127.0.0.1] File does not exist: /Users/marcos/Sites/upload.dev/listar
